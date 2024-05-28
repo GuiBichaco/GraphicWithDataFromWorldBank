@@ -1,6 +1,7 @@
 # GraphicWithDataFromWorldBank
 
-
+Arquivo csv requirido para funcionamento, no repositório.
+(csv file required for operation, in the repository)
 
 ### Project Description
 
